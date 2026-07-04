@@ -1,7 +1,7 @@
 ---
 
 ## 👩‍💻 **Sobre mí**  
-¡Hola! Soy técnica superior en **Administración de Sistemas Informáticos en Red** con experiencia práctica y conocimientos en constante evolución. Actualmente, también estoy formada como **Técnica en Sistemas Microinformáticos y Redes** .  
+¡Hola! Soy técnica superior en **Administración de Sistemas Informáticos en Red** con experiencia práctica y conocimientos en constante evolución. También estoy formada como **Técnica en Sistemas Microinformáticos y Redes** .  
 
 ---
 
