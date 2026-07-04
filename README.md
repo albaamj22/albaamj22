@@ -1,7 +1,7 @@
 ---
 
 ## 👩‍💻 **Sobre mí**  
-¡Hola! Soy técnica superior en **Administración de Sistemas Informáticos en Red** con experiencia práctica y conocimientos en constante evolución. También estoy formada como **Técnica en Sistemas Microinformáticos y Redes** .  
+¡Hola! Soy técnica superior en **Administración de Sistemas Informáticos en Red** con experiencia práctica y conocimientos en constante evolución. También estoy formada como **Técnica en Sistemas Microinformáticos y Redes**.  
 
 ---
 
@@ -30,7 +30,6 @@ A lo largo de mi formación y experiencia, he adquirido las siguientes competenc
 ---
 
 ## 🌟 **Metas Profesionales**  
-- Finalizar mi formación como Técnica Superior en ASIR.  
 - Convertirme en especialista en seguridad informática y administración avanzada de sistemas.  
 - Participar en proyectos innovadores que impulsen la transformación digital en empresas.  
 
