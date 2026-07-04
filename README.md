@@ -1,7 +1,7 @@
 ---
 
 ## 👩‍💻 **Sobre mí**  
-¡Hola! Soy técnica en **Sistemas Microinformáticos y Redes** con experiencia práctica y conocimientos en constante evolución. Actualmente, me estoy formando como **Técnica Superior en Administración de Sistemas Informáticos en Red (ASIR)** para ampliar mis habilidades y abarcar un rango más amplio de responsabilidades en el ámbito de la informática.  
+¡Hola! Soy técnica superior en **Administración de Sistemas Informáticos en Red** con experiencia práctica y conocimientos en constante evolución. Actualmente, también estoy formada como **Técnica en Sistemas Microinformáticos y Redes** .  
 
 ---
 
