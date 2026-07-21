@@ -15,9 +15,9 @@
 
 ## Sobre mí
 
-Técnica en sistemas y redes con formación consolidada en **administración de infraestructuras TI**,
-actualmente ampliando especialización en **ciberseguridad**. Me interesa el diseño, despliegue y
-protección de entornos de red completos: desde el cableado y la electrónica de red hasta la
+¡Hola!, Soy técnica superior en sistemas y redes con formación consolidada en **administración de infraestructuras TI**,
+actualmente estoy ampliando mis conocimientos especializandome en **ciberseguridad**. Me interesa el diseño, despliegue y
+protección de entornos de red completos: desde el cableado hasta la
 virtualización de servidores y el hardening de sistemas.
 
 <br>
@@ -25,8 +25,8 @@ virtualización de servidores y el hardening de sistemas.
 ## Formación
 
 - **Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información y la Comunicación** — *en curso*
-- **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)** — Grado Superior, familia profesional de Informática y Comunicaciones
-- **Técnico en Sistemas Microinformáticos y Redes (SMR)** — Grado Medio, familia profesional de Informática y Comunicaciones
+- **Técnica Superior en Administración de Sistemas Informáticos en Red (ASIR)** — Grado Superior, familia profesional de Informática y Comunicaciones
+- **Técnica en Sistemas Microinformáticos y Redes (SMR)** — Grado Medio, familia profesional de Informática y Comunicaciones
 
 <br>
 
@@ -36,7 +36,7 @@ virtualización de servidores y el hardening de sistemas.
 |:---|:---:|:---|
 | **VMware** (Workstation / ESXi / vSphere) | ●●●●○ | Despliegue y gestión de máquinas virtuales, redes virtuales, snapshots, plantillas |
 | **Hyper-V** | ●●●●○ | Creación de hosts y VMs, conmutadores virtuales, checkpoints, Windows Server Core |
-| **VirtualBox** | ●●●○○ | Entornos de pruebas y laboratorios aislados |
+| **VirtualBox** | ●●●●● | Entornos de pruebas y laboratorios aislados |
 
 <br>
 
@@ -48,13 +48,13 @@ virtualización de servidores y el hardening de sistemas.
 
 **Sistemas cliente**
 - Windows 10 / 11
-- Distribuciones Linux de escritorio (Ubuntu, Debian, Mint)
+- Distribuciones Linux de escritorio (Ubuntu, Debian, Mint, Kali, Arch)
 
 </td>
 <td valign="top" width="50%">
 
 **Sistemas servidor**
-- Windows Server (2016 / 2019 / 2022) — Directorio Activo, DNS, DHCP, GPO
+- Windows Server (2016 / 2019 / 2022 / 2025) — Directorio Activo, DNS, DHCP, GPO
 - Linux server (Debian / Ubuntu Server / CentOS) — servicios de red, administración remota
 
 </td>
@@ -91,15 +91,5 @@ virtualización de servidores y el hardening de sistemas.
 `Active Directory` `GPO` `DNS / DHCP` `TCP/IP` `VLAN`
 `VMware` `Hyper-V` `Windows Server` `Linux` `Bash / PowerShell`
 `Soporte técnico` `Montaje y mantenimiento de equipos` `Redes de datos`
-
-</div>
-
-<br>
-
-## Contacto
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-mart%C3%ADn-juan-b1595a286/)
 
 </div>
