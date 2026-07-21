@@ -69,6 +69,7 @@ virtualización de servidores y el hardening de sistemas.
 - Modelo TCP/IP y OSI
 - Servicios de red: DNS, DHCP, NAT, firewall
 - Administración remota y monitorización
+- Bases de datos SQL Server, Oracle y MariaDB
 
 <br>
 
